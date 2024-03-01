@@ -1,4 +1,3 @@
-
 Secure Notes App
 Secure Notes App é um aplicativo simples de notas com recursos de segurança, desenvolvido em Python usando a biblioteca Tkinter para a interface gráfica.
 
